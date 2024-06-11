@@ -5,9 +5,7 @@ let nYoq = []
 for (let product of products) {
     if (product.includes("n")) {
         nBor.push(narsa)
-    }
-    
-    else {
+    } else {
         nYoq.push(narsa)
     }
 }
